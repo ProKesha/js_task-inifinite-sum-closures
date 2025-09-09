@@ -20,7 +20,6 @@ function makeAdder() {
   }
 
   return adder;
-  // write code here
 }
 
 module.exports = makeAdder;
